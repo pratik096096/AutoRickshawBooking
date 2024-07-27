@@ -1,0 +1,18 @@
+{
+    "heading":"Book Rickshaw",
+    "email":{
+        "label":"Email",
+        "placeholder":"abc@gmail.com",
+        "type":"email"
+    },
+    "source":{
+        "label":"Pick-Up Location",
+        
+        "type":"text"
+    },
+    "dest":{
+        "label":"Drop Location",
+        
+        "type":"text"
+    }
+}

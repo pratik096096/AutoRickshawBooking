@@ -1,0 +1,26 @@
+[
+    {
+        "id":0,
+        "label":"Belgaum Bus Stand"
+    },
+    {
+        "id":1,
+        "label":"Belgaum Camp"
+    },
+    {
+        "id":2,
+        "label":"Belgaum College Road"
+    },
+    {
+        "id":3,
+        "label":"Belgaum Udaymbag "
+    },
+    {
+        "id":4,
+        "label":"Belgaum Kapileshwar Road"
+    },
+    {
+        "id":5,
+        "label":"Belgaum Savgaon"
+    }
+]
