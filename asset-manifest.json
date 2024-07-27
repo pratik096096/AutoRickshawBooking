@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AutoRickshawBooking/static/css/main.d4e4a72a.css",
+    "main.js": "/AutoRickshawBooking/static/js/main.0c8590be.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/AutoRickshawBooking/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/auto.jpg": "/AutoRickshawBooking/static/media/auto.4cbc468838f3a5ca96c0.jpg",
+    "static/media/auto2.jpg": "/AutoRickshawBooking/static/media/auto2.4c94f61182cc9af890d7.jpg",
+    "index.html": "/AutoRickshawBooking/index.html",
+    "static/media/blob2.svg": "/AutoRickshawBooking/static/media/blob2.1e2f54fb6ac1768070de.svg",
+    "main.d4e4a72a.css.map": "/AutoRickshawBooking/static/css/main.d4e4a72a.css.map",
+    "main.0c8590be.js.map": "/AutoRickshawBooking/static/js/main.0c8590be.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/AutoRickshawBooking/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e4a72a.css",
+    "static/js/main.0c8590be.js"
+  ]
+}
